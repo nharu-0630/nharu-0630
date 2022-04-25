@@ -3,7 +3,7 @@
 #### Gakujo Projects
 
 - [xyzyxJP/GakujoGUI-WPF](https://github.com/xyzyxJP/GakujoGUI-WPF)  
-    For Windows 10 and 11
+    For Windows 10 and 11  
     Build by .NET 6
 - [xyzyxJP/GakujoAPI](https://github.com/xyzyxJP/GakujoAPI)  
     For Web Application  
