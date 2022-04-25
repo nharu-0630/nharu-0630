@@ -15,5 +15,5 @@
     For Cross-Platform (but only run in Windows...)  
     Build by .NET 6
 - [xyzyxJP/GakujoGUI](https://github.com/xyzyxJP/GakujoGUI)  
-    For Windows 10 and 11 (end of update)
+    For Windows 10 and 11 (end of update)  
     Build by .NET Framework 4  
